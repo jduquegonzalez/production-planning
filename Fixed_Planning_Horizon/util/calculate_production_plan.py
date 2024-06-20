@@ -1,6 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+# Suppress warnings
+import warnings
+warnings.filterwarnings("ignore")
 
 def calculate_one_time_run_production_plan(total_production, setup_cost_per_run, holding_cost_per_item_per_period, period_demand, output_directory, period_label=""):
     # Create the output directory if it doesn't exist
