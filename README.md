@@ -1,7 +1,4 @@
-Here's an updated section of the `README.md` file for your GitHub repository, now including all the approaches for solving the FPH problem and incorporating British English spelling:
-
-markdown
-# Master Production Planning Repository
+# Master Production Planning
 
 This repository contains various Jupyter Notebooks that explore different production planning strategies. It aims to find the most cost-effective production schedules based on a range of heuristics and methods.
 
